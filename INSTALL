@@ -1,0 +1,9 @@
+Building MasterCoin
+
+See doc/readme-qt.rst for instructions on building MasterCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MasterCoin.
+
+See doc/build-*.txt for instructions on building MasterCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of MasterCoin.
